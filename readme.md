@@ -1,7 +1,6 @@
 # Kindi
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
-![](https://img.shields.io/snyk/vulnerabilities/npm/:packageName.svg)
-![](https://img.shields.io/github/repo-size/badges/shields.svg)![](https://img.shields.io/bundlephobia/min/react.svg)
+[![Known Vulnerabilities](https://snyk.io/test/github/shaselle/kindi/badge.svg?targetFile=package.json)](https://snyk.io/test/github/shaselle/kindi?targetFile=package.json)
 ---
 #### Kindi is very opinionated progressive web app library, that values lightness and performance.
 Am putting together an innovative system for building progress web apps.

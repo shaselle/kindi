@@ -1,16 +1,16 @@
 {
   "name": "kindi",
-  "version": "0.0.1",
+  "version": "0.0.01",
   "description": "An very opinionated PWA building tool, that values lightness and performance.",
   "scripts": {
     "build": "rollup -c"
   },
-  "browser": "kindi.js",
   "author": "Shadrack Ndacayisenga",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^10.12.18"
   },
+  "browser": "kindi.js",
   "main": "kindi.js",
   "dependencies": {},
   "repository": {
