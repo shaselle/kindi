@@ -10,5 +10,22 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^10.12.18"
-  }
+  },
+  "main": "kindi.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaselle/kindi.git"
+  },
+  "keywords": [
+    "Framework",
+    "Js",
+    "ES6",
+    "clean",
+    "js"
+  ],
+  "bugs": {
+    "url": "https://github.com/shaselle/kindi/issues"
+  },
+  "homepage": "https://github.com/shaselle/kindi#readme"
 }

@@ -35,6 +35,9 @@ export class Elem {
         });
     }
 
+    /**
+     * @param css {{CSSRuleList}}
+     * */
     css(css) {
         css
             .toString()
@@ -87,3 +90,10 @@ export class Elem {
         this.append(...children);
     }
 }
+
+const x = Elem();
+x.css(`{
+    background: rgba(76,27,34,0.71);
+    border-radius: 1px;
+    width:234px;
+}`);
